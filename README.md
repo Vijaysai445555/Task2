@@ -2,8 +2,11 @@
 
 
 ### Screenshots
-![image](https://github.com/MahaLakshmi-Siri/Kaiburr/assets/89401166/a387a960-a642-4e96-8a6f-bafd0ad0617b)
-![image](https://github.com/MahaLakshmi-Siri/Kaiburr/assets/89401166/263f8036-0d92-4917-916a-1f74d2b53d80)
-![image](https://github.com/MahaLakshmi-Siri/Kaiburr/assets/89401166/a1a361bd-47da-48ff-81cf-f038ff638a91)
+![image](https://github.com/Vijaysai445555/Task2/assets/145057437/de5d6eec-6280-44a0-9589-3b897cd973c0)
+![image](https://github.com/Vijaysai445555/Task2/assets/145057437/f275890e-1cbc-4357-9d85-e5f342585e11)
+![image](https://github.com/Vijaysai445555/Task2/assets/145057437/3cc5ced0-6a76-43d0-a6f5-062901c9d29b)
+
+
+
 
 
